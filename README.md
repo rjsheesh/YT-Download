@@ -50,7 +50,7 @@ pip install -r requirements.txt
 Run the GUI tool:
 
 ```bash
-python main.py
+Open 05_yt_down.vbs
 ```
 
 - Enter YouTube URL  
