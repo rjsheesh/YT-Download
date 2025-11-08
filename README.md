@@ -34,7 +34,7 @@ cd YT-Download
 
 **Step 3:** Install FFmpeg
 
-- Windows: Download from [FFmpeg](https://ffmpeg.org/download.html)  
+- Windows: Download from [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)  
 - Extract and set path to `C:\ffmpeg\bin` (or update `FFMPEG_PATH` in code)  
 
 ---
