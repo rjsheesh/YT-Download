@@ -32,12 +32,6 @@ git clone https://github.com/rjsheesh/YT-Download.git
 cd YT-Download
 ```
 
-**Step 2:** Install required packages
-
-```bash
-pip install -r requirements.txt
-```
-
 **Step 3:** Install FFmpeg
 
 - Windows: Download from [FFmpeg](https://ffmpeg.org/download.html)  
@@ -61,19 +55,6 @@ Open 05_yt_down.vbs
 
 > By default, all downloads go to `YT Download` folder.  
 > You can select a different folder if you want.
-
----
-
-## Requirements
-
-- Python 3.8+  
-- Packages:
-
-```txt
-yt-dlp
-pillow
-requests
-```
 
 ---
 
